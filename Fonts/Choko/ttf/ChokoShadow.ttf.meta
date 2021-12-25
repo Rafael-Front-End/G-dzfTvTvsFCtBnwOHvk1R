@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6ce5e139e80f9cd479181132b703093e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Choko Shadow
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7090359eb4b47824a9cfc02bcfd0bdb0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
